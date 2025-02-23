@@ -1,0 +1,8 @@
+<resources>
+    <string name="myMessenger">My Messenger</string>
+    <string name="send">Send Message</string>
+    <string name="hint">Enter a Message</string>
+    <string name="Historial">HISTORIAL</string>
+    <string name="user">Nicolas20</string>
+    <string name="paseador">juan44</string>
+</resources>
